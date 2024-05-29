@@ -1,0 +1,17 @@
+table.mytable th{
+    font-size: 30px;
+    padding-left:10px;
+    margin-left: 10rem;
+    width: 10%;
+    text-align: left;
+    background-color: bisque;
+    color: azure;
+    border: 2.5px solid burlywood;
+}
+table.mytable td{
+    font-size: 20px;
+    text-align: left;
+    border-collapse: separate;
+    border: 2px solid forestgreen;
+    
+}
